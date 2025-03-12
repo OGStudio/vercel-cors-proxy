@@ -11,12 +11,13 @@ So you have to fork this repository to your GitHub account.
 
 | № | Step | Screenshot |
 |---|---   |---         |
-| 1 | Press `Fork` | ![Fork][fork-01]{width=250} |
-| 2 | | |
+| 1 | Press `Fork` | ![Fork][fork-01] |
+| 2 | Press `Create fork` | ![Create fork][fork-02] |
 
 ## ?. Create project
 
 # Verify Isomorphic-Git is working
 
 [fork-01]: readme/fork-01.png
+[fork-02]: readme/fork-02.png
 [vercel]: https://vercel.com
