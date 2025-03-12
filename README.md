@@ -23,10 +23,12 @@ So you have to fork this repository to your GitHub account.
 | № | Step | Screenshot |
 |---|---   |---         |
 | 1 | Press `Add New... -> Project` | ![Add new project][create-01] |
+| 1 | Press `Add GitHub Account` | ![Add GitHub account][create-02] |
 
 # Verify Isomorphic-Git is working
 
 [create-01]: readme/create-01.png
+[create-02]: readme/create-02.png
 [fork-01]: readme/fork-01.png
 [fork-02]: readme/fork-02.png
 [fork-03]: readme/fork-03.png
