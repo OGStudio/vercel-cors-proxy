@@ -13,6 +13,7 @@ So you have to fork this repository to your GitHub account.
 |---|---   |---         |
 | 1 | Press `Fork` | ![Fork][fork-01] |
 | 2 | Press `Create fork` | ![Create fork][fork-02] |
+| 3 | Wait | ![Wait][fork-03] |
 
 ## ?. Create project
 
@@ -20,4 +21,5 @@ So you have to fork this repository to your GitHub account.
 
 [fork-01]: readme/fork-01.png
 [fork-02]: readme/fork-02.png
+[fork-03]: readme/fork-03.png
 [vercel]: https://vercel.com
