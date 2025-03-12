@@ -9,10 +9,10 @@
 Vercel won't operate without a bound GitHub (GitLab/Bitbucket) account.
 So you have to fork this repository to your GitHub account.
 
-| Step | Image | Description |
-|---   |---    |---          |
-| 1    | ![Fork][fork-01] | Press `Fork`|
-| 2    | | |
+| № | Step | Screenshot |
+|---|---   |---         |
+| 1 | Press `Fork` | ![Fork][fork-01] |
+| 2 | | |
 
 ## ?. Create project
 
