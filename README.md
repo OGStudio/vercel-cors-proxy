@@ -11,7 +11,7 @@ So you have to fork this repository to your GitHub account.
 
 | № | Step | Screenshot |
 |---|---   |---         |
-| 1 | Press `Fork` | ![Fork][fork-01] |
+| 1 | Press `Fork` | ![Fork][fork-01]{width=250} |
 | 2 | | |
 
 ## ?. Create project
