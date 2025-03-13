@@ -1,4 +1,4 @@
-# Install CORS proxy to Vercel
+# How to install CORS proxy to Vercel
 
 *Updated: 2025-03-12*
 
@@ -29,8 +29,14 @@ So you have to fork this repository to your GitHub account.
 | 5 | Press `Import` | ![Import][create-05] |
 | 6 | Press `Deploy` | ![Deploy][create-06] |
 | 7 | Wait | ![Wait][create-07] |
+| 8 | Done | ![Done][create-08] |
 
-# Verify Isomorphic-Git is working
+## 4. Verify CORS proxy is working
+
+| № | Step | Screenshot |
+|---|---   |---         |
+| 1 | Open `Domains` link | ![Link][verify-01] |
+| 2 | Make sure ... is displayed | ![CORS proxy root][verify-02] |
 
 [create-01]: readme/create-01.png
 [create-02]: readme/create-02.png
@@ -39,8 +45,11 @@ So you have to fork this repository to your GitHub account.
 [create-05]: readme/create-05.png
 [create-06]: readme/create-06.png
 [create-07]: readme/create-07.png
+[create-08]: readme/create-08.png
 [fork-01]: readme/fork-01.png
 [fork-02]: readme/fork-02.png
 [fork-03]: readme/fork-03.png
 [fork-04]: readme/fork-04.png
 [vercel]: https://vercel.com
+[verify-01]: readme/verify-01.png
+[verify-02]: readme/verify-02.png
