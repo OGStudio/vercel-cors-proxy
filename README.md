@@ -36,7 +36,7 @@ So you have to fork this repository to your GitHub account.
 | № | Step | Screenshot |
 |---|---   |---         |
 | 1 | Open `Domains` link | ![Link][verify-01] |
-| 2 | Make sure ... is displayed | ![CORS proxy root][verify-02] |
+| 2 | Make sure `Isomorphic-Git CORS proxy` is displayed | ![Root][verify-02] |
 
 [create-01]: readme/create-01.png
 [create-02]: readme/create-02.png
