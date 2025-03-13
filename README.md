@@ -25,12 +25,14 @@ So you have to fork this repository to your GitHub account.
 | 1 | Press `Add New... -> Project` | ![Add new project][create-01] |
 | 2 | Press `Add GitHub Account` | ![Add GitHub account][create-02] |
 | 3 | Select GitHub account to install Vercel into | ![Select GitHub account][create-03] |
+| 4 | Select repositories Vercel has access to | ![Select repos][create-04] |
 
 # Verify Isomorphic-Git is working
 
 [create-01]: readme/create-01.png
 [create-02]: readme/create-02.png
 [create-03]: readme/create-03.png
+[create-04]: readme/create-04.png
 [fork-01]: readme/fork-01.png
 [fork-02]: readme/fork-02.png
 [fork-03]: readme/fork-03.png
