@@ -28,6 +28,7 @@ So you have to fork this repository to your GitHub account.
 | 4 | Grant Vercel access to the forked repository | ![Grant access][create-04] |
 | 5 | Press `Import` | ![Import][create-05] |
 | 6 | Press `Deploy` | ![Deploy][create-06] |
+| 7 | Wait | ![Wait][create-07] |
 
 # Verify Isomorphic-Git is working
 
@@ -37,6 +38,7 @@ So you have to fork this repository to your GitHub account.
 [create-04]: readme/create-04.png
 [create-05]: readme/create-05.png
 [create-06]: readme/create-06.png
+[create-07]: readme/create-07.png
 [fork-01]: readme/fork-01.png
 [fork-02]: readme/fork-02.png
 [fork-03]: readme/fork-03.png
